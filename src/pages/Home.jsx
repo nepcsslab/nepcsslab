@@ -59,7 +59,7 @@ function Home() {
             {copied ? <Check className="w-4 h-4 text-green-500" /> : <Copy className="w-4 h-4 text-gray-700" />}
           </button>
           <a
-            href="https://github.com/your-github-repo"
+            href="https://github.com/abhayabikramshahi/nep-css-npmjs"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-1 text-gray-700 hover:text-gray-900 transition"
